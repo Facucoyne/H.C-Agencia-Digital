@@ -153,7 +153,7 @@ h2{
 h3{
     padding: 15px;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     color: #212719;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -211,7 +211,7 @@ h3{
     }
 
     .image img{
-        width: 113%;
+        width: 100%;
         border-radius: 10px 20px;
         -webkit-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 10px 38px 3px rgba(0,0,0,0.75);
@@ -298,7 +298,7 @@ h5{
 .Precio{
     font-weight: bold;
     font-size: 35px;
-    padding: 13px;
+    padding: 15px;
     color: #212529;
 }
 
