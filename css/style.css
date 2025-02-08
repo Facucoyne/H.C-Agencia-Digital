@@ -10,8 +10,9 @@ html{
 .TextoLogo{
     position: absolute;
     padding: 55px;
-    color: #0ba16a;
+    color: #fff;
     font-family: "gothic medium";
+    text-shadow: 1px 1px  10px rgb(0, 0, 0)
 }
 
 header{
@@ -20,7 +21,7 @@ header{
     justify-content: space-between;
     padding: 1rem;
     /*background-color: rgba(0, 0, 0, .9);*/
-    background-color: #181529;
+    background-color: rgb(190, 156, 112);
 }
 
 .btn-wsp {
@@ -46,6 +47,7 @@ header{
     text-decoration: none;
     color: #fff;
     font-size: 20px;
+    text-shadow: 1px 1px  10px rgb(0, 0, 0)
 }
 
 .abrir-menu,
