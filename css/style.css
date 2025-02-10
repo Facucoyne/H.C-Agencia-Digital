@@ -508,7 +508,6 @@ h5{
     align-items: center;
     height: 60vh;
     
-
     }
 
 
@@ -517,9 +516,10 @@ h5{
     display: flex;
     background-color: var(--white-color);
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 4px 5px rgba(5, 2, 159, 0.1);
     overflow: hidden;
     width: 300px;
+    border: 1px solid #a09d9d;
 }
 
 .card-imagen img {
@@ -590,7 +590,7 @@ button {
 }
 
 button:hover {
-    background-color: darken(var(--secondary-color), 10%);
+    background-color: #0ba16a;
 }
 
 @media screen and (max-width: 500px) {
